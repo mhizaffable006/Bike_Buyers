@@ -83,7 +83,7 @@ the data.
   - Adolescents (0-30),
   - Middle age (31-54), and
   - Old (55+)
-  - 
+   
    ![age](https://github.com/user-attachments/assets/bd08925f-61eb-4f30-98eb-d15a620aa67c)
 
   e. Use the `AND` function to create a new column that checks if a customer’s income is greater than $50,000 and their age is greater than 30.
