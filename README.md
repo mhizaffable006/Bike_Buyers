@@ -26,7 +26,7 @@ We are to use the Bike_buyers dataset to answer the following questions:
 following:
   a. Use the `SUM` function to calculate the total income from all customers.
 
-   ![sum](https://github.com/user-attachments/assets/4f16d924-74d8-46a2-a472-69fa0f5b0f59)
+  ![sum](https://github.com/user-attachments/assets/4f16d924-74d8-46a2-a472-69fa0f5b0f59)
 
 
   b. Use the `AVERAGE` function to find the average income of customers.
