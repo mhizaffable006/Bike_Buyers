@@ -12,7 +12,7 @@ This dataset used in this work is gotten from the Data Analytics Class announcem
 # Data Preparation
 We will load the data into MS Excel.
 
-![IMG_20250204_114415](https://github.com/user-attachments/assets/3faa8866-0551-485a-9daf-e85012ea2df0)
+  ![IMG_20250204_114415](https://github.com/user-attachments/assets/3faa8866-0551-485a-9daf-e85012ea2df0)
 
 
 # Data Cleaning/Transformation
@@ -68,15 +68,15 @@ column.
 the data.
   a. Use the `IF` function to create a new column labeled "High Income", where customers with an income above $50,000 are marked as “Yes” and those below are marked as “No.”
 
-     ![high income](https://github.com/user-attachments/assets/68a62f21-defb-4ce3-8f64-98febbfddd86)
+  ![high income](https://github.com/user-attachments/assets/68a62f21-defb-4ce3-8f64-98febbfddd86)
 
   b. Use the `SUMIF` function to calculate the total Income for customers who are married (i.e M).
 
-   ![and](https://github.com/user-attachments/assets/977398f5-e96a-4547-8658-b5ea6d6cf975)
+  ![and](https://github.com/user-attachments/assets/977398f5-e96a-4547-8658-b5ea6d6cf975)
 
   c. Use the `COUNTIF` function to count how many customers have an income greater than $50,000.
 
-   ![countif](https://github.com/user-attachments/assets/890a24e5-c300-40bb-ac98-4c2ad07a46d2)
+  ![countif](https://github.com/user-attachments/assets/890a24e5-c300-40bb-ac98-4c2ad07a46d2)
 
 
   d. In a new column named “Age Bracket”, Use the `IFS` function to classify customers age into categories:
@@ -84,7 +84,7 @@ the data.
   - Middle age (31-54), and
   - Old (55+)
   - 
-     ![age](https://github.com/user-attachments/assets/bd08925f-61eb-4f30-98eb-d15a620aa67c)
+   ![age](https://github.com/user-attachments/assets/bd08925f-61eb-4f30-98eb-d15a620aa67c)
 
   e. Use the `AND` function to create a new column that checks if a customer’s income is greater than $50,000 and their age is greater than 30.
 
@@ -92,4 +92,4 @@ the data.
 
 # Conclusion
 
-![image](https://github.com/user-attachments/assets/114e7331-e48f-4c4b-80f8-a82af7c92827)
+   ![image](https://github.com/user-attachments/assets/114e7331-e48f-4c4b-80f8-a82af7c92827)
