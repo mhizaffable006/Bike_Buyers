@@ -2,9 +2,9 @@
 
 # Introduction
 As part of assessment in the Data Analytics class organized by PSP_Analytics, one of the analytics projects I’ll be working on is the Bike Sales Dataset. The Bike Sales Dataset contains the ID, Marital Status, Gender, Income, Children, Education, Occupation, Home Owner, Cars, Commute Distance, Region, Age and Purchased Bike. The goal of this work is to:
-  ✓ Create a new Excel file, and include four sheets labelled: Aggregate Functions, Text Functions and Logical Functions
-  ✓ Each sheet will contain specific types of Excel functions to analyze the dataset.
-  ✓ Include the functions in new columns beside the original dataset and label each operation.
+  - Create a new Excel file, and include four sheets labelled: Aggregate Functions, Text Functions and Logical Functions
+  - Each sheet will contain specific types of Excel functions to analyze the dataset.
+  - Include the functions in new columns beside the original dataset and label each operation.
   
 # Data Sourcing
 This dataset used in this work is gotten from the Data Analytics Class announcement channel, which was posted by Mr. Kingsley Adisa.
