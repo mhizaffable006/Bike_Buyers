@@ -19,7 +19,7 @@ We will load the data into MS Excel.
 Here, we check if the format of each column is correct and correct it were necessary. We also address inconsistencies in the columns to ensure a more accurate dataset for analysis
 
 # Data Analysis/Visualization
-We are to use the Bike_buyers dataset to answer the following questions:
+We are to use the Bike Sales Dataset to answer the following questions:
 
 1. Aggregate Functions: You are required to use aggregate functions to perform calculations on the
 `Income` column of the dataset. For each task, insert a new column as needed and perform the
